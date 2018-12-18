@@ -1,4 +1,4 @@
-#pyiocutils
+# pyiocutils
 
 A collection of utilities for use in Python scripts related to
 working with "indicators of compromise" (IOCs). 
@@ -16,9 +16,9 @@ indicators. You know - the shit with which analysts actually work.
 Basic usage examples were created using [asciinema](https://asciinema.org/). If something is
 still unclear, file an issue so I can make this package as easy-to-use as possible.
 
-+ Using pyiocutils.ioc - [![asciicast](https://asciinema.org/a/217356.svg)](https://asciinema.org/a/217356)
-+ Using pyiocutils.iocfile - [![asciicast](https://asciinema.org/a/217357.svg)](https://asciinema.org/a/217357)
-+ Using pyiocutils.iocargs - [![asciicast](https://asciinema.org/a/217358.svg)](https://asciinema.org/a/217358)
+Using pyiocutils.ioc - [![asciicast](https://asciinema.org/a/217356.svg)](https://asciinema.org/a/217356)
+Using pyiocutils.iocfile - [![asciicast](https://asciinema.org/a/217357.svg)](https://asciinema.org/a/217357)
+Using pyiocutils.iocargs - [![asciicast](https://asciinema.org/a/217358.svg)](https://asciinema.org/a/217358)
 
 ## Installation
 

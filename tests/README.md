@@ -19,10 +19,10 @@ where:
 
 ## Contents
 
-+run_tests.py - the automated test suite; will run all tests 
-+test_ioc.py - tests the ioc module
-+test_iocfile.py - tests the iocfile module
-+test_iocargs.py - tests the iocargs module
-+data.py - some test data
-+context.py - sets up the environment for easy imports
-+iocfile.txt - an example ioc file for testing
++ run_tests.py - the automated test suite; will run all tests 
++ test_ioc.py - tests the ioc module
++ test_iocfile.py - tests the iocfile module
++ test_iocargs.py - tests the iocargs module
++ data.py - some test data
++ context.py - sets up the environment for easy imports
++ iocfile.txt - an example ioc file for testing
