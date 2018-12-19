@@ -10,5 +10,6 @@ setup(
     author='cmatthewbrooks',
     author_email='me@cmatthewbrooks.com',
     keywords=['cyber','ioc'],
-    packages=['pyiocutils']
+    packages=['pyiocutils'],
+    test_suite='tests'
 )
