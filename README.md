@@ -24,7 +24,7 @@ Using pyiocutils.ioc:
 Using pyiocutils.iocfile:
 [![asciicast](https://asciinema.org/a/217357.svg)](https://asciinema.org/a/217357)
 
-Using pyiocutils.iocargs:
+Using pyiocutils.iocargs [script here](https://gist.github.com/cmatthewbrooks/b07d56cbad688578399e89cb65c40521):
 [![asciicast](https://asciinema.org/a/217358.svg)](https://asciinema.org/a/217358)
 
 ## Installation
